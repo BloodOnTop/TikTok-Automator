@@ -51,4 +51,3 @@
 * 502 Bad Gateway Error: `Zefoy.com blocked it either because of a VPN/proxy or maybe your country is blocked.`
 * Join our Discord for more help.
 x
-
